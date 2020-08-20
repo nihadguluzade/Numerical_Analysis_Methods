@@ -1,2 +1,2 @@
-# Numerical_Analysis_Methods
-Code implementations of Numerical Analysis (Sayısal analiz) course methods.
+# Numerical Analysis Methods
+Code implementations in C of Numerical Analysis (Sayısal analiz) course methods.
